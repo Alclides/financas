@@ -83,5 +83,5 @@ Essa Web aplicação desenvolvida com *Laravel* gerencia transações financeira
 
 ## Contato
  
- LinkedIn: Alclides Oliveira
- Instagram: @alclidess
+ - LinkedIn: Alclides Oliveira
+ - Instagram: @alclidess
